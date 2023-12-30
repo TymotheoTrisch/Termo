@@ -18,12 +18,16 @@ Certifique-se de ter o ambiente Java configurado em seu sistema. Para executar o
    cd JogoDoTermo
    ```
 
+- **OBS:** Antes de compilar o código, altere na Classe `ModelTermo.java` na `linha 22` o caminho do arquivo de palavras para o seu caminho local no computador
+
 3. Compile e execute o jogo:
 
    ```
    javac Main.java
    java Main
    ```
+
+
 
 # Estrutura do Projeto
 
