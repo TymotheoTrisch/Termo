@@ -20,7 +20,7 @@ public class ModelTermo {
     }
 
     public String sorteiaPalavra() {
-        String nomeArquivo = "PalavraModificada.txt"; // Nome do arquivo com as palavras a serem sorteadas
+        String nomeArquivo = "CAMINHO_DO_ARQUIVO/PalavraModificada.txt"; // Nome do arquivo com as palavras a serem sorteadas
 
         // Lista para armazenar as palavras do arquivo
         ArrayList<String> palavras = new ArrayList<>();
